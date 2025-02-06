@@ -1,0 +1,20 @@
+# editor folder
+.idea
+
+# lectures slides
+lectures/*
+
+# igonre all .venv folders for Python virtual environments
+**/.venv/
+
+# ignore all vscode folders
+**/.vscode/
+
+# ignore all .ipynb_checkpoints folders
+**/.ipynb_checkpoints/
+
+# dummy files
+dummy_nbs
+
+# ignore all lectures graphs notebooks
+*lec*.ipynb
